@@ -1,9 +1,12 @@
 ---
+published: true
 layout: default
 next: governance.html
 ---
 
-*“Our state government possesses vast treasure troves of valuable information and reports: from health, business and public safety data to information on parks, recreation, labor, and transportation … The Open New York web portal will allow researchers, citizens, business and the media direct access to high-value data, which will be continually added to and expanded, so these groups can use the data to innovate for the benefit of all New Yorkers.” – Governor Cuomo, State of the State Address,        January 9, 2013*
+*“Our state government possesses vast treasure troves of valuable information and reports: from health, business and public safety data to information on parks, recreation, labor, and transportation … The Open New York web portal will allow researchers, citizens, business and the media direct access to high-value data, which will be continually added to and expanded, so these groups can use the data to to innovate for the benefit of all New Yorkers.” #  1. item
+2. item
+3. item,        January 9, 2013*
 
 
 I. INTRODUCTION
@@ -13,7 +16,7 @@ I. INTRODUCTION
 
 Government is the public’s business and the public should have access to the records of government.  New technologies have dramatically changed both the way government conducts business and the public's expectations about access to government information.  As part of this transformation, New York State launched Open.ny.gov, an open-government initiative, on March 11, 2013. Its goals are to spark innovation, promote research and economic opportunities, engage public participation in government, increase transparency, and inform decision-making.  
 
-Concurrent with the launch of Open.ny.gov, Governor Andrew Cuomo issued Executive Order No. 95, "Using Technology to Promote Transparency, Improve Government Performance and Enhance Citizen Engagement."  This unprecedented Executive Order directed covered state entities, for the first time, to identify and catalogue their data, and make publishable state data available on the new transparency website.
+Concurrent with the launch of Open.ny.gov, Governor Andrew Cuomo issued Executive Order No. 95, "Using Technology to Promote Transparency, Improve Government Performance and Enhance Citizen Engagement."  This unprecedented Executive Order directed covered state entities, for the first time, to identify and catalogue their data, and make publishable state data available on the new transparency website. fdsf
 
 The concept of “Open Data” describes data that is freely available, machine readable, and formatted according to uniform technical standards to facilitate visibility and reuse of published data.  New York's open data platform is a web-based public data portal that catalogues data and enables data to be discoverable.  The portal offers access to standardized data that can be accessed and reused by citizens, business, researchers, journalists, developers, and government to process, trend, and innovate utilizing a singular dataset or combinations of datasets.  
 
